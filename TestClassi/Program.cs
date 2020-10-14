@@ -7,7 +7,7 @@ namespace TestClassi
     {
         static void Main(string[] args)
         {
-            Lavoratore l1 = new Lavoratore("Peppe", "calciatore", 35);
+            Lavoratore l1 = new Lavoratore("Peppe", "finanziatore", 35);
             Console.WriteLine(l1.Presentati());
         }
     }
